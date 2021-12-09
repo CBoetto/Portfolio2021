@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c692bc7f.chunk.css",
+    "main.js": "/static/js/main.2b368d61.chunk.js",
+    "main.js.map": "/static/js/main.2b368d61.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1ac29cbf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1ac29cbf.js.map",
+    "static/js/2.b0be154e.chunk.js": "/static/js/2.b0be154e.chunk.js",
+    "static/js/2.b0be154e.chunk.js.map": "/static/js/2.b0be154e.chunk.js.map",
+    "static/js/3.239d0901.chunk.js": "/static/js/3.239d0901.chunk.js",
+    "static/js/3.239d0901.chunk.js.map": "/static/js/3.239d0901.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c692bc7f.chunk.css.map": "/static/css/main.c692bc7f.chunk.css.map",
+    "static/js/2.b0be154e.chunk.js.LICENSE.txt": "/static/js/2.b0be154e.chunk.js.LICENSE.txt",
+    "static/media/aboutIconBlue.6d0b89a5.png": "/static/media/aboutIconBlue.6d0b89a5.png",
+    "static/media/cplusplus.4e89229b.png": "/static/media/cplusplus.4e89229b.png",
+    "static/media/css3.6ab47d54.png": "/static/media/css3.6ab47d54.png",
+    "static/media/cvs01.de84e5c2.png": "/static/media/cvs01.de84e5c2.png",
+    "static/media/downArrow.9edfd30d.png": "/static/media/downArrow.9edfd30d.png",
+    "static/media/express.4fb52049.png": "/static/media/express.4fb52049.png",
+    "static/media/graphql.f6642672.png": "/static/media/graphql.f6642672.png",
+    "static/media/html5.32a8e9f5.png": "/static/media/html5.32a8e9f5.png",
+    "static/media/javaScript.b0281311.png": "/static/media/javaScript.b0281311.png",
+    "static/media/macStub.aebbd95d.png": "/static/media/macStub.aebbd95d.png",
+    "static/media/mailBlue.595770bf.png": "/static/media/mailBlue.595770bf.png",
+    "static/media/nodejs.d57bb320.png": "/static/media/nodejs.d57bb320.png",
+    "static/media/App.css": "/static/media/pattern-randomized.9d8c7fe3.svg",
+    "static/media/postgresql.45fd1bfc.png": "/static/media/postgresql.45fd1bfc.png",
+    "static/media/react.c2f1c4ab.png": "/static/media/react.c2f1c4ab.png",
+    "static/media/reactNative.271f68fb.png": "/static/media/reactNative.271f68fb.png",
+    "static/media/redux.8e8d93da.png": "/static/media/redux.8e8d93da.png",
+    "static/media/socialClub01.e71f31aa.png": "/static/media/socialClub01.e71f31aa.png",
+    "static/media/typeScript.8e08c216.png": "/static/media/typeScript.8e08c216.png",
+    "static/media/wirehead01.15e99cb3.png": "/static/media/wirehead01.15e99cb3.png",
+    "static/media/wireheadIcon.0f888f4d.png": "/static/media/wireheadIcon.0f888f4d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac29cbf.js",
+    "static/js/2.b0be154e.chunk.js",
+    "static/css/main.c692bc7f.chunk.css",
+    "static/js/main.2b368d61.chunk.js"
+  ]
+}
